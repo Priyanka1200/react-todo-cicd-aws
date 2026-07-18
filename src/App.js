@@ -104,7 +104,7 @@ function App() {
 
         {/* Header */}
         <div className="todo-header">
-          <h1>TaskFlow</h1>
+          <h1>TaskFlow CI/CD</h1>
           <p>Stay organized. Get things done.</p>
         </div>
 
