@@ -188,11 +188,6 @@ Live Website
 ## 🚀 Future Enhancements
 
 - Docker Containerization
-- Nginx Reverse Proxy
-- HTTPS using Let's Encrypt
-- Custom Domain
+- Nginx + HTTPS 
 - Terraform Infrastructure as Code
-- Kubernetes Deployment
-- CloudWatch Monitoring
-- Blue-Green Deployment
-- Zero Downtime Deployment
+
