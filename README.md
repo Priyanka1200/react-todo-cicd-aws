@@ -45,6 +45,12 @@ The project includes:
 - Automatic Rollback on Deployment Failure
 - rsync-based File Synchronization
 
+## 🏗️ Architecture
+
+See the complete architecture here:
+
+[Architecture Diagram](architecture/architecture.md)
+
 ## 📂 Project Structure
 
 ```
